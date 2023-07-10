@@ -1,0 +1,39 @@
+/* Created by Dayu Wang (dwang@stchas.edu) on 2023-07-09 */
+
+/* Last updated by Dayu Wang (dwang@stchas.edu) on 2023-07-09 */
+
+
+body {
+    background-color: whitesmoke;
+    border: none;
+    display: block;
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    margin: 12pt auto;
+    padding: 0;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    width: 800px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border: none;
+    display: block;
+    height: auto;
+    margin: 0;
+    max-width: 100%;
+    padding: 0;
+}
+
+a {
+    font-weight: bold;
+}
+
+.orangered {
+    color: orangered;
+}
